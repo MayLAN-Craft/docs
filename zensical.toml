@@ -44,10 +44,20 @@ Copyright &copy; 2026 MayLAN Craft
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "MayLAN Craft" = "index.md" },
+  { "Частые вопросы" = "faq.md" },
+  { "Правила" = "rules.md" },
+  { "Механики сервера" = [
+    "features/advancements.md",
+    "features/core-protect.md",
+    "features/map.md",
+    "features/poses.md",
+    "features/skins.md",
+    "features/stats.md",
+    "features/top.md",
+  ]}
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -299,8 +309,14 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://discord.gg/vW5V8bKhve"
+[[project.extra.social]]
+icon = "fontawesome/brands/telegram"
+link = "https://t.me/+Isyto5xN1e00YTFi"
 
+
+[project.extra]
+generator = false
 
