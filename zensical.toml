@@ -56,6 +56,7 @@ nav = [
     "features/skins.md",
     "features/stats.md",
     "features/top.md",
+    "features/who.md",
   ]}
 ]
 
