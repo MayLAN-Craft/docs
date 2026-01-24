@@ -6,6 +6,8 @@ icon: lucide/rocket
 
 MayLAN Craft - приватный ванильный сервер Minecraft. Работает на версии 1.21.11
 
+![Спавн сервера](https://raw.githubusercontent.com/MayLAN-Craft/docs/refs/heads/main/images/index.jpg)
+
 ## Что нужно знать о сервере
 
 <div class="grid cards" markdown>
