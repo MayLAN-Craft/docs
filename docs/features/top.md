@@ -9,3 +9,5 @@ icon: lucide/medal
 - `/top advancements` - показать топ игроков по достижениям.
 - `/top playtime` - показать топ игроков по времени игры на сервере
 - `/top deaths` - показать топ игроков по количеству смертей.
+
+![Топ](https://raw.githubusercontent.com/MayLAN-Craft/docs/refs/heads/main/images/top.png)

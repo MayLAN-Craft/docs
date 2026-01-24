@@ -12,5 +12,7 @@ icon: lucide/chart-bar
 - Сколько блоков прошёл игрок
 - Количество выполненных достижений
 
+![Статистика](https://raw.githubusercontent.com/MayLAN-Craft/docs/refs/heads/main/images/stats.png)
+
 ## Как посмотреть статистику свою или другого игрока
 Для этого пропишите команду `/stats` или `/stats <ник_игрока>`.
