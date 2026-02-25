@@ -53,10 +53,10 @@ MayLAN Craft - приватный ванильный сервер Minecraft. Р�
 
 ## Как подать заявку на сервер?
 
-Заявку можно подать через группу Telegram или сервер Discord. В закреплённом сообщении есть пример оформленной заявки. Ознакомьтесь с правилами сервера, при подаче заявки будут вопросы на знание правил.
+Заявку можно подать через бота в Telegram или сервер Discord. Ознакомьтесь с правилами сервера, при подаче заявки будут вопросы на знание правил.
 
 [Подать заявку в Discord :fontawesome-brands-discord:](https://discord.gg/vW5V8bKhve){ .md-button .md-button--primary }
-[Подать заявку в Telegram :fontawesome-brands-telegram:](https://t.me/+Isyto5xN1e00YTFi){ .md-button }
+[Подать заявку в Telegram :fontawesome-brands-telegram:](https://t.me/maylancraft_bot){ .md-button }
 
 
 
