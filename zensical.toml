@@ -51,6 +51,7 @@ nav = [
   { "Механики сервера" = [
     "features/advancements.md",
     "features/core-protect.md",
+    "features/simple-voice-chat.md"
     "features/map.md",
     "features/poses.md",
     "features/skins.md",
