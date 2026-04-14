@@ -1,5 +1,5 @@
 ---
-icon: lucide/heart-handshake
+icon: lucide/mic
 ---
 
 # Внутриигровой голосовой чат
