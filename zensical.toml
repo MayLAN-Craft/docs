@@ -52,6 +52,7 @@ nav = [
     "features/advancements.md",
     "features/core-protect.md",
     "features/simple-voice-chat.md",
+    "features/clans.md",
     "features/map.md",
     "features/poses.md",
     "features/skins.md",
