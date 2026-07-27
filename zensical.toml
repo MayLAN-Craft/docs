@@ -55,6 +55,7 @@ nav = [
     "features/map.md",
     "features/poses.md",
     "features/skins.md",
+    "features/custom-discs.md",
     "features/stats.md",
     "features/top.md",
     "features/who.md",
